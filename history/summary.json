@@ -5,6 +5,14 @@
     "slug": "https-portal-yonsei-ac-kr-main",
     "status": "up",
     "uptime": "100.00",
-    "time": 958
+    "time": 1120
+  },
+  {
+    "name": "연세포털(없는 사이트로) - https://portal2.yonsei.ac.kr/main/",
+    "url": "https://portal2.yonsei.ac.kr/main/",
+    "slug": "https-portal2-yonsei-ac-kr-main",
+    "status": "down",
+    "uptime": "100.00",
+    "time": 0
   }
 ]
