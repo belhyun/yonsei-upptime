@@ -6,6 +6,8 @@ user-agent: KojBot
 sites:
   - name: 연세포털 - https://portal.yonsei.ac.kr/main/
     url: https://portal.yonsei.ac.kr/main/
+  - name: 연세포털(없는 사이트로) - https://portal2.yonsei.ac.kr/main/
+      url: https://portal2.yonsei.ac.kr/main/
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
