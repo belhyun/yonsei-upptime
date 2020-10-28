@@ -6,6 +6,8 @@ user-agent: KojBot
 sites:
   - name: 연세포털 - https://portal.yonsei.ac.kr/main/
     url: https://portal.yonsei.ac.kr/main/
+  - name: 인프라 - https://infra.yonsei.ac.kr
+    url: https://infra.yonsei.ac.kr
   - name: 그룹웨어 - https://ysgw.yonsei.ac.kr
     url: https://ysgw.yonsei.ac.kr
   - name: 기부금 - https://donasys.yonsei.ac.kr/donasys
