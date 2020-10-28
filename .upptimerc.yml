@@ -1,21 +1,13 @@
-owner: koj-co
+owner: belhyun
 repo: upptime
 user-agent: KojBot
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: 연세포털 - https://portal.yonsei.ac.kr
+    url: https://portal.yonsei.ac.kr
+  - name: 연세그룹웨어 - https://ysgw.yonsei.ac.kr
+    url: https://ysgw.yonsei.ac.kr
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
@@ -29,8 +21,9 @@ assignees:
 # http://localhost:3000/docs/configuration#status-website
 status-website:
   # cname: upptime.js.org
+  cname: belhyun.github.io
   baseUrl: /status/ # Base directory for GitHub Pages (remove if have a custom domain)
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: 연세대학교 IT서비스팀에서 운영되는 서비스들의 현재 상태입니다. GitHub Actions 를 이용한 Upptime 으로 운영되고 있습니다.
