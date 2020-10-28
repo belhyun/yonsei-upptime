@@ -12,7 +12,7 @@
     "url": "https://test.yonsei.ac.kr",
     "slug": "https-ysgw-yonsei-ac-kr",
     "status": "down",
-    "uptime": "99.94",
+    "uptime": "99.81",
     "time": 939
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://test.yonsei.ac.kr/donasys",
     "slug": "https-donasys-yonsei-ac-kr-donasys",
     "status": "down",
-    "uptime": "99.97",
+    "uptime": "99.84",
     "time": 1081
   }
 ]
