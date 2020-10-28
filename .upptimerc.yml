@@ -4,8 +4,8 @@ user-agent: KojBot
 
 # Add your sites here
 sites:
-  - name: 연세그룹웨어 - https://ysgw.yonsei.ac.kr
-    url: http://ysgw.yonsei.ac.kr/gw/uat/uia/egovLoginUsr.do?pkglogin
+  - name: 연세포털 - https://portal.yonsei.ac.kr/main/
+    url: https://portal.yonsei.ac.kr/main/
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
