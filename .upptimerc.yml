@@ -17,7 +17,7 @@ sites:
 # https://upptime.js.org/docs/notifications
 notifications:
   - type: slack
-    channel: C016QTU9S9Y
+    channel: CDMRWJU4T
 assignees:
   - AnandChowdhary
 
