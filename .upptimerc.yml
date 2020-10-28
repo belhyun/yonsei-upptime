@@ -7,9 +7,9 @@ sites:
   - name: 연세포털 - https://portal.yonsei.ac.kr/main/
     url: https://portal.yonsei.ac.kr/main/
   - name: 그룹웨어 - https://ysgw.yonsei.ac.kr
-    url: https://test.yonsei.ac.kr
+    url: https://ysgw.yonsei.ac.kr
   - name: 기부금 - https://donasys.yonsei.ac.kr/donasys
-    url: https://test.yonsei.ac.kr/donasys
+    url: https://donasys.yonsei.ac.kr/donasys
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
