@@ -5,7 +5,7 @@
     "slug": "https-portal-yonsei-ac-kr-main",
     "status": "up",
     "uptime": "100.00",
-    "time": 2764
+    "time": 2665
   },
   {
     "name": "인프라 - https://infra.yonsei.ac.kr",
@@ -13,7 +13,7 @@
     "slug": "https-infra-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 859
+    "time": 915
   },
   {
     "name": "그룹웨어 - https://ysgw.yonsei.ac.kr",
@@ -21,14 +21,6 @@
     "slug": "https-ysgw-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 982
-  },
-  {
-    "name": "기부금 - https://donasys.yonsei.ac.kr/donasys",
-    "url": "https://donasys.yonsei.ac.kr/donasys",
-    "slug": "https-donasys-yonsei-ac-kr-donasys",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1112
+    "time": 987
   }
 ]
