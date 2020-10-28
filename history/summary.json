@@ -1,11 +1,11 @@
 [
   {
     "name": "연세포털 - https://portal.yonsei.ac.kr/main/",
-    "url": "https://portal2.yonsei.ac.kr/main/",
+    "url": "https://portal.yonsei.ac.kr/main/",
     "slug": "https-portal-yonsei-ac-kr-main",
-    "status": "down",
-    "uptime": "99.90",
-    "time": 2994
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2939
   },
   {
     "name": "그룹웨어 - https://ysgw.yonsei.ac.kr",
@@ -13,7 +13,7 @@
     "slug": "https-ysgw-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 958
+    "time": 952
   },
   {
     "name": "기부금 - https://donasys.yonsei.ac.kr/donasys",
@@ -21,6 +21,6 @@
     "slug": "https-donasys-yonsei-ac-kr-donasys",
     "status": "up",
     "uptime": "100.00",
-    "time": 1095
+    "time": 1090
   }
 ]
