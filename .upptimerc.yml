@@ -18,8 +18,8 @@ sites:
 notifications:
   - type: slack
     channel: CDMRWJU4T
-assignees:
-  - AnandChowdhary
+#assignees:
+#  - AnandChowdhary
 
 # Configure your status website
 # http://localhost:3000/docs/configuration#status-website
