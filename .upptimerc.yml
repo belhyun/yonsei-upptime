@@ -6,7 +6,7 @@ user-agent: KojBot
 sites:
   - name: 연세포털 - https://portal.yonsei.ac.kr/main/
     url: https://portal.yonsei.ac.kr/main/
-  - name: 그룹웨어 - https://ysgw2.yonsei.ac.kr
+  - name: 그룹웨어 - https://test.yonsei.ac.kr
     url: https://ysgw.yonsei.ac.kr
   - name: 기부금 - https://donasys.yonsei.ac.kr/donasys
     url: https://donasys.yonsei.ac.kr/donasys
@@ -23,8 +23,8 @@ notifications:
 # http://localhost:3000/docs/configuration#status-website
 status-website:
   # cname: upptime.js.org
-  baseUrl: /status/ # Base directory for GitHub Pages (remove if have a custom domain)
+  # baseUrl: /status/ # Base directory for GitHub Pages (remove if have a custom domain)
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: yonse-upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: 연세대학교 IT서비스팀에서 운영되는 서비스들의 현재 상태입니다. GitHub Actions 를 이용한 Upptime 으로 운영되고 있습니다.
