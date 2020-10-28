@@ -5,7 +5,7 @@
     "slug": "https-portal-yonsei-ac-kr-main",
     "status": "up",
     "uptime": "100.00",
-    "time": 2634
+    "time": 2685
   },
   {
     "name": "인프라 - https://infra.yonsei.ac.kr",
@@ -13,7 +13,7 @@
     "slug": "https-infra-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 888
+    "time": 883
   },
   {
     "name": "그룹웨어 - https://ysgw.yonsei.ac.kr",
@@ -21,6 +21,6 @@
     "slug": "https-ysgw-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 979
+    "time": 972
   }
 ]
