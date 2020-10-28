@@ -3,7 +3,7 @@
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [연세포털 - https://portal.yonsei.ac.kr/main/](https://portal.yonsei.ac.kr/main/) | 🟩 Up | [https-portal-yonsei-ac-kr-main.yml](https://github.com/belhyun/yonsei-upptime/commits/master/history/https-portal-yonsei-ac-kr-main.yml) | <img alt="Response time graph" src="./graphs/https-portal-yonsei-ac-kr-main.png" height="20"> 730ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbelhyun%2Fyonsei-upptime%2Fmaster%2Fapi%2Fhttps-portal-yonsei-ac-kr-main%2Fuptime.json)
+| [연세포털 - https://portal.yonsei.ac.kr/main/](https://portal.yonsei.ac.kr/main/) | 🟩 Up | [https-portal-yonsei-ac-kr-main.yml](https://github.com/belhyun/yonsei-upptime/commits/master/history/https-portal-yonsei-ac-kr-main.yml) | <img alt="Response time graph" src="./graphs/https-portal-yonsei-ac-kr-main.png" height="20"> 958ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbelhyun%2Fyonsei-upptime%2Fmaster%2Fapi%2Fhttps-portal-yonsei-ac-kr-main%2Fuptime.json)
 <!--end: status pages-->
 
 ## 📄 License
