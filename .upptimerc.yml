@@ -14,6 +14,8 @@ sites:
     url: https://donasys.yonsei.ac.kr/donasys
   - name: Tams - https://tams.yonsei.ac.kr:8443/
     url: https://tams.yonsei.ac.kr:8443/
+  - name: Haksa - http://underwood1.yonsei.ac.kr/haksa/sso/main.jsp
+    url: http://underwood1.yonsei.ac.kr/haksa/sso/main.jsp
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
