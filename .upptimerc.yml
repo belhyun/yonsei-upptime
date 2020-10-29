@@ -23,8 +23,8 @@ notifications:
 # http://localhost:3000/docs/configuration#status-website
 status-website:
   # cname: upptime.js.org
-  baseUrl: /status # Base directory for GitHub Pages (remove if have a custom domain)
+  baseUrl: /yonsei-upptime # Base directory for GitHub Pages (remove if have a custom domain)
   logoUrl: https://gitlab.yonsei.ac.kr/uploads/-/system/appearance/logo/1/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C__1_.png
   name: 연세대학교 서비스 헬스체크
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: 연세대학교 IT서비스팀에서 운영되는 서비스들의 현재 상태입니다. GitHub Actions 를 이용한 Upptime 으로 운영되고 있습니다.
+  introTitle: 연세대학교 IT서비스팀에서 운영되는 서비스들의 현재 상태입니다. GitHub Actions 를 이용한 Upptime 으로 운영되고 있습니다.
+  introMessage: 서비스 현황
