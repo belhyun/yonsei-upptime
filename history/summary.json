@@ -1,26 +1,34 @@
 [
   {
-    "name": "연세포털 - https://portal.yonsei.ac.kr/main/",
+    "name": "Portal - https://portal.yonsei.ac.kr/main/",
     "url": "https://portal.yonsei.ac.kr/main/",
-    "slug": "https-portal-yonsei-ac-kr-main",
+    "slug": "portal-https-portal-yonsei-ac-kr-main",
     "status": "up",
     "uptime": "100.00",
-    "time": 2743
+    "time": 1054
   },
   {
-    "name": "인프라 - https://infra.yonsei.ac.kr",
+    "name": "Infra - https://infra.yonsei.ac.kr",
     "url": "https://infra.yonsei.ac.kr",
-    "slug": "https-infra-yonsei-ac-kr",
+    "slug": "infra-https-infra-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 853
+    "time": 1423
   },
   {
-    "name": "그룹웨어 - https://ysgw.yonsei.ac.kr",
+    "name": "GroupWare - https://ysgw.yonsei.ac.kr",
     "url": "https://ysgw.yonsei.ac.kr",
-    "slug": "https-ysgw-yonsei-ac-kr",
+    "slug": "group-ware-https-ysgw-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 1008
+    "time": 728
+  },
+  {
+    "name": "Erp - https://yep.yonsei.ac.kr:50001/",
+    "url": "https://yep.yonsei.ac.kr:50001/",
+    "slug": "erp-https-yep-yonsei-ac-kr-50001",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1516
   }
 ]
