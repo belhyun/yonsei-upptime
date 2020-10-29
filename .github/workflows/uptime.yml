@@ -8,7 +8,7 @@
 name: Uptime CI
 on:
   schedule:
-    - cron: "*/1 * * * *"
+    - cron: "* * * * *"
   workflow_dispatch:
 jobs:
   release:
