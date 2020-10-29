@@ -4,7 +4,7 @@ user-agent: KojBot
 
 # Add your sites here
 sites:
-  - name: Portal - https://portal.yonsei.ac.kr/main/
+  - name: 포털 - https://portal.yonsei.ac.kr/main/
     url: https://portal.yonsei.ac.kr/main/
   - name: Infra - https://infra.yonsei.ac.kr
     url: https://infra.yonsei.ac.kr
