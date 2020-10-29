@@ -1,8 +1,8 @@
-With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/belhyun/yonsei-upptime/issues) as incident reports, [Actions](https://github.com/belhyun/yonsei-upptime/actions) as uptime monitors, and [Pages](https://belhyun.github.io/yonsei-upptime/) for the status page.
+# [📈 Live Status](https://belhyun.github.io/yonsei-upptime/): <!--live status--> **🟨 Partial outage**
 
-# [📈 Live Status](https://belhyun.github.io/yonsei-upptime/): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://belhyun.github.io/yonsei-upptime/): <!--live status--> **🟨 Partial outage**
 
-# [📈 Live Status](https://belhyun.github.io/yonsei-upptime/): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://belhyun.github.io/yonsei-upptime/): <!--live status--> **🟨 Partial outage**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
@@ -10,14 +10,14 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 | [Portal - https://portal.yonsei.ac.kr/main/](https://portal.yonsei.ac.kr/main/) | 🟩 Up | [portal-https-portal-yonsei-ac-kr-main.yml](https://github.com/belhyun/yonsei-upptime/commits/master/history/portal-https-portal-yonsei-ac-kr-main.yml) | <img alt="Response time graph" src="./graphs/portal-https-portal-yonsei-ac-kr-main.png" height="20"> 2614ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbelhyun%2Fyonsei-upptime%2Fmaster%2Fapi%2Fportal-https-portal-yonsei-ac-kr-main%2Fuptime.json)
 | [Infra - https://infra.yonsei.ac.kr](https://infra.yonsei.ac.kr) | 🟩 Up | [infra-https-infra-yonsei-ac-kr.yml](https://github.com/belhyun/yonsei-upptime/commits/master/history/infra-https-infra-yonsei-ac-kr.yml) | <img alt="Response time graph" src="./graphs/infra-https-infra-yonsei-ac-kr.png" height="20"> 1120ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbelhyun%2Fyonsei-upptime%2Fmaster%2Fapi%2Finfra-https-infra-yonsei-ac-kr%2Fuptime.json)
 | [GroupWare - https://ysgw.yonsei.ac.kr](https://ysgw.yonsei.ac.kr) | 🟩 Up | [group-ware-https-ysgw-yonsei-ac-kr.yml](https://github.com/belhyun/yonsei-upptime/commits/master/history/group-ware-https-ysgw-yonsei-ac-kr.yml) | <img alt="Response time graph" src="./graphs/group-ware-https-ysgw-yonsei-ac-kr.png" height="20"> 1180ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbelhyun%2Fyonsei-upptime%2Fmaster%2Fapi%2Fgroup-ware-https-ysgw-yonsei-ac-kr%2Fuptime.json)
-| [Donasys - https://donasys.yonsei.ac.kr/donasys](https://donasys.yonsei.ac.kr/donasys) | 🟩 Up | [donasys-https-donasys-yonsei-ac-kr-donasys.yml](https://github.com/belhyun/yonsei-upptime/commits/master/history/donasys-https-donasys-yonsei-ac-kr-donasys.yml) | <img alt="Response time graph" src="./graphs/donasys-https-donasys-yonsei-ac-kr-donasys.png" height="20"> 1265ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbelhyun%2Fyonsei-upptime%2Fmaster%2Fapi%2Fdonasys-https-donasys-yonsei-ac-kr-donasys%2Fuptime.json)
+| [Donasys - https://donasys.yonsei.ac.kr/donasys](https://donasys.yonsei.ac.kr/donasys) | 🟥 Down | [donasys-https-donasys-yonsei-ac-kr-donasys.yml](https://github.com/belhyun/yonsei-upptime/commits/master/history/donasys-https-donasys-yonsei-ac-kr-donasys.yml) | <img alt="Response time graph" src="./graphs/donasys-https-donasys-yonsei-ac-kr-donasys.png" height="20"> 1246ms | ![Uptime 99.95%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbelhyun%2Fyonsei-upptime%2Fmaster%2Fapi%2Fdonasys-https-donasys-yonsei-ac-kr-donasys%2Fuptime.json)
 | [Tams - https://tams.yonsei.ac.kr:8443/](https://tams.yonsei.ac.kr:8443/) | 🟩 Up | [tams-https-tams-yonsei-ac-kr-8443.yml](https://github.com/belhyun/yonsei-upptime/commits/master/history/tams-https-tams-yonsei-ac-kr-8443.yml) | <img alt="Response time graph" src="./graphs/tams-https-tams-yonsei-ac-kr-8443.png" height="20"> 1009ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbelhyun%2Fyonsei-upptime%2Fmaster%2Fapi%2Ftams-https-tams-yonsei-ac-kr-8443%2Fuptime.json)
 | [Haksa - http://underwood1.yonsei.ac.kr/haksa/sso/main.jsp](http://underwood1.yonsei.ac.kr/haksa/sso/main.jsp) | 🟩 Up | [haksa-http-underwood1-yonsei-ac-kr-haksa-sso-main-jsp.yml](https://github.com/belhyun/yonsei-upptime/commits/master/history/haksa-http-underwood1-yonsei-ac-kr-haksa-sso-main-jsp.yml) | <img alt="Response time graph" src="./graphs/haksa-http-underwood1-yonsei-ac-kr-haksa-sso-main-jsp.png" height="20"> 2468ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbelhyun%2Fyonsei-upptime%2Fmaster%2Fapi%2Fhaksa-http-underwood1-yonsei-ac-kr-haksa-sso-main-jsp%2Fuptime.json)
 <!--end: status pages-->
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Koj](https://koj.co)
+- Code: [MIT](./LICENSE) © [belhyun](http://belhyun.blogspot.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 
 <p align="center">
