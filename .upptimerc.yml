@@ -10,6 +10,10 @@ sites:
     url: https://infra.yonsei.ac.kr
   - name: GroupWare - https://ysgw.yonsei.ac.kr
     url: https://ysgw.yonsei.ac.kr
+  - name: Donasys - https://donasys.yonsei.ac.kr/donasys
+    url: https://donasys.yonsei.ac.kr/donasys
+  - name: Tams - https://tams.yonsei.ac.kr:8443/
+    url: https://tams.yonsei.ac.kr:8443/
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
