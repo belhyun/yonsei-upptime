@@ -5,7 +5,7 @@
     "slug": "portal-https-portal-yonsei-ac-kr-main",
     "status": "up",
     "uptime": "100.00",
-    "time": 2891
+    "time": 2719
   },
   {
     "name": "Infra - https://infra.yonsei.ac.kr",
@@ -13,7 +13,7 @@
     "slug": "infra-https-infra-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 965
+    "time": 1031
   },
   {
     "name": "GroupWare - https://ysgw.yonsei.ac.kr",
@@ -21,7 +21,7 @@
     "slug": "group-ware-https-ysgw-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 943
+    "time": 930
   },
   {
     "name": "Donasys - https://donasys.yonsei.ac.kr/donasys",
@@ -29,7 +29,7 @@
     "slug": "donasys-https-donasys-yonsei-ac-kr-donasys",
     "status": "up",
     "uptime": "100.00",
-    "time": 1018
+    "time": 1105
   },
   {
     "name": "Tams - https://tams.yonsei.ac.kr:8443/",
@@ -37,6 +37,14 @@
     "slug": "tams-https-tams-yonsei-ac-kr-8443",
     "status": "up",
     "uptime": "100.00",
-    "time": 899
+    "time": 1042
+  },
+  {
+    "name": "Haksa - http://underwood1.yonsei.ac.kr/haksa/sso/main.jsp",
+    "url": "http://underwood1.yonsei.ac.kr/haksa/sso/main.jsp",
+    "slug": "haksa-http-underwood1-yonsei-ac-kr-haksa-sso-main-jsp",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1831
   }
 ]
