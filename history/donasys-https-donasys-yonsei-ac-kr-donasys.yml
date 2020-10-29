@@ -1,7 +1,7 @@
 - url: https://donasys.yonsei.ac.kr/donasys
-- status: down
-- code: 503
-- responseTime: 1171
-- lastUpdated: 2020-10-29T08:28:44.868Z
+- status: up
+- code: 200
+- responseTime: 1061
+- lastUpdated: 2020-10-29T08:30:16.139Z
 - startTime: 2020-10-29T04:25:25.062Z
 - generator: Upptime <https://github.com/upptime/upptime>
