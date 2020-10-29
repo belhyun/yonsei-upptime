@@ -5,7 +5,7 @@
     "slug": "portal-https-portal-yonsei-ac-kr-main",
     "status": "up",
     "uptime": "100.00",
-    "time": 1567
+    "time": 1662
   },
   {
     "name": "Infra - https://infra.yonsei.ac.kr",
@@ -13,7 +13,7 @@
     "slug": "infra-https-infra-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 1195
+    "time": 1078
   },
   {
     "name": "GroupWare - https://ysgw.yonsei.ac.kr",
@@ -21,7 +21,7 @@
     "slug": "group-ware-https-ysgw-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 1154
+    "time": 1049
   },
   {
     "name": "Erp - https://yep.yonsei.ac.kr:50001/",
@@ -29,6 +29,6 @@
     "slug": "erp-https-yep-yonsei-ac-kr-50001",
     "status": "up",
     "uptime": "100.00",
-    "time": 2112
+    "time": 2081
   }
 ]
