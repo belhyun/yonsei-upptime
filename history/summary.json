@@ -35,9 +35,9 @@
     "name": "Tams - https://tams.yonsei.ac.kr:8443/",
     "url": "https://tams.yonsei.ac.kr:8443/",
     "slug": "tams-https-tams-yonsei-ac-kr-8443",
-    "status": "down",
-    "uptime": "96.97",
-    "time": 1045
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1082
   },
   {
     "name": "Sms - https://message.yonsei.ac.kr/include/noPermission.jsp",
