@@ -36,7 +36,7 @@
     "url": "https://tams.yonsei.ac.kr:8443/",
     "slug": "tams-https-tams-yonsei-ac-kr-8443",
     "status": "down",
-    "uptime": "97.03",
+    "uptime": "96.97",
     "time": 1045
   },
   {
@@ -51,24 +51,24 @@
     "name": "Sugang(undergraduate)",
     "url": "https://ysweb.yonsei.ac.kr/websquare/websquare.jsp?w2xPath=/wq/login/hakbu_login.xml",
     "slug": "sugang-undergraduate",
-    "status": "down",
-    "uptime": "96.86",
-    "time": 940
+    "status": "up",
+    "uptime": "100.00",
+    "time": 991
   },
   {
     "name": "Sugang(graduate)",
     "url": "https://ysweb.yonsei.ac.kr/graduate.jsp",
     "slug": "sugang-graduate",
-    "status": "down",
-    "uptime": "96.86",
-    "time": 137
+    "status": "up",
+    "uptime": "100.00",
+    "time": 139
   },
   {
     "name": "Grade - https://ysweb.yonsei.ac.kr/grade.jsp",
     "url": "https://ysweb.yonsei.ac.kr/grade.jsp",
     "slug": "grade-https-ysweb-yonsei-ac-kr-grade-jsp",
-    "status": "down",
-    "uptime": "96.87",
-    "time": 137
+    "status": "up",
+    "uptime": "100.00",
+    "time": 139
   }
 ]
