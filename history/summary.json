@@ -5,7 +5,7 @@
     "slug": "portal-https-portal-yonsei-ac-kr-main",
     "status": "up",
     "uptime": "100.00",
-    "time": 2106
+    "time": 2111
   },
   {
     "name": "Infra - https://infra.yonsei.ac.kr",
@@ -13,7 +13,7 @@
     "slug": "infra-https-infra-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 1138
+    "time": 1157
   },
   {
     "name": "GroupWare - https://ysgw.yonsei.ac.kr",
@@ -21,7 +21,7 @@
     "slug": "group-ware-https-ysgw-yonsei-ac-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 1096
+    "time": 1122
   },
   {
     "name": "Donasys - https://donasys.yonsei.ac.kr/donasys",
@@ -29,7 +29,7 @@
     "slug": "donasys-https-donasys-yonsei-ac-kr-donasys",
     "status": "up",
     "uptime": "100.00",
-    "time": 1253
+    "time": 1265
   },
   {
     "name": "Tams - https://tams.yonsei.ac.kr:8443/",
@@ -37,7 +37,7 @@
     "slug": "tams-https-tams-yonsei-ac-kr-8443",
     "status": "up",
     "uptime": "100.00",
-    "time": 1062
+    "time": 1068
   },
   {
     "name": "Sms - https://message.yonsei.ac.kr/include/noPermission.jsp",
@@ -45,7 +45,7 @@
     "slug": "sms-https-message-yonsei-ac-kr-include-no-permission-jsp",
     "status": "up",
     "uptime": "100.00",
-    "time": 905
+    "time": 908
   },
   {
     "name": "Sugang(undergraduate)",
@@ -61,7 +61,7 @@
     "slug": "sugang-graduate",
     "status": "up",
     "uptime": "100.00",
-    "time": 140
+    "time": 143
   },
   {
     "name": "Grade - https://ysweb.yonsei.ac.kr/grade.jsp",
@@ -69,6 +69,6 @@
     "slug": "grade-https-ysweb-yonsei-ac-kr-grade-jsp",
     "status": "up",
     "uptime": "100.00",
-    "time": 140
+    "time": 142
   }
 ]
