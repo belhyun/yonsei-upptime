@@ -1,7 +1,7 @@
 - url: https://message.yonsei.ac.kr/include/noPermission.jsp
-- status: down
-- code: 503
-- responseTime: 1719
-- lastUpdated: 2020-11-13T09:11:51.453Z
+- status: up
+- code: 200
+- responseTime: 977
+- lastUpdated: 2020-11-13T20:23:24.605Z
 - startTime: 2020-10-29T10:51:16.203Z
 - generator: Upptime <https://github.com/upptime/upptime>
