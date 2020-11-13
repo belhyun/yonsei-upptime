@@ -27,9 +27,9 @@
     "name": "Donasys - https://donasys.yonsei.ac.kr/donasys",
     "url": "https://donasys.yonsei.ac.kr/donasys",
     "slug": "donasys-https-donasys-yonsei-ac-kr-donasys",
-    "status": "down",
-    "uptime": "97.05",
-    "time": 1325
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1331
   },
   {
     "name": "Tams - https://tams.yonsei.ac.kr:8443/",
@@ -43,7 +43,7 @@
     "name": "Sms - https://message.yonsei.ac.kr/include/noPermission.jsp",
     "url": "https://message.yonsei.ac.kr/include/noPermission.jsp",
     "slug": "sms-https-message-yonsei-ac-kr-include-no-permission-jsp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
     "time": 968
   },
