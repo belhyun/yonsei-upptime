@@ -11,9 +11,9 @@
     "name": "Infra - https://infra.yonsei.ac.kr",
     "url": "https://infra.yonsei.ac.kr",
     "slug": "infra-https-infra-yonsei-ac-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1345
+    "time": 1339
   },
   {
     "name": "GroupWare - https://ysgw.yonsei.ac.kr",
