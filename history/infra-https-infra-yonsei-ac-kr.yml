@@ -1,7 +1,7 @@
 - url: https://infra.yonsei.ac.kr
-- status: down
-- code: 503
-- responseTime: 2138
-- lastUpdated: 2020-11-18T20:46:35.842Z
+- status: up
+- code: 200
+- responseTime: 914
+- lastUpdated: 2020-11-18T20:53:52.212Z
 - startTime: 2020-10-29T00:13:07.124Z
 - generator: Upptime <https://github.com/upptime/upptime>
