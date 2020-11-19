@@ -1,7 +1,7 @@
 - url: https://tams.yonsei.ac.kr:8443/
-- status: up
+- status: down
 - code: 200
-- responseTime: 1556
-- lastUpdated: 2020-11-18T23:04:39.077Z
+- responseTime: 1436
+- lastUpdated: 2020-11-19T06:48:33.124Z
 - startTime: 2020-10-29T04:25:27.857Z
 - generator: Upptime <https://github.com/upptime/upptime>
