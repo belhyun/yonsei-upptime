@@ -1,7 +1,7 @@
 - url: https://ysweb.yonsei.ac.kr/graduate.jsp
-- status: up
+- status: down
 - code: 200
-- responseTime: 148
-- lastUpdated: 2020-11-18T23:04:41.618Z
+- responseTime: 190
+- lastUpdated: 2020-11-19T06:48:40.982Z
 - startTime: 2020-10-30T02:43:22.761Z
 - generator: Upptime <https://github.com/upptime/upptime>
