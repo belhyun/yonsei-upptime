@@ -1,7 +1,7 @@
 - url: https://ysgw.yonsei.ac.kr
-- status: down
+- status: up
 - code: 200
-- responseTime: 979
-- lastUpdated: 2020-11-19T06:48:24.701Z
+- responseTime: 1895
+- lastUpdated: 2020-11-19T06:55:31.032Z
 - startTime: 2020-10-29T00:13:10.340Z
 - generator: Upptime <https://github.com/upptime/upptime>
