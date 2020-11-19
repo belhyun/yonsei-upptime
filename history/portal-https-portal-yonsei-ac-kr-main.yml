@@ -1,7 +1,7 @@
 - url: https://portal.yonsei.ac.kr/main/
-- status: up
+- status: down
 - code: 200
-- responseTime: 1830
-- lastUpdated: 2020-11-18T23:04:33.107Z
+- responseTime: 1574
+- lastUpdated: 2020-11-19T06:48:18.948Z
 - startTime: 2020-10-29T00:13:04.221Z
 - generator: Upptime <https://github.com/upptime/upptime>
