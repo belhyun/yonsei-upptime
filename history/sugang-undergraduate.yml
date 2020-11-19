@@ -1,7 +1,7 @@
 - url: https://ysweb.yonsei.ac.kr/websquare/websquare.jsp?w2xPath=/wq/login/hakbu_login.xml
-- status: down
+- status: up
 - code: 200
-- responseTime: 1726
-- lastUpdated: 2020-11-19T06:48:39.036Z
+- responseTime: 1011
+- lastUpdated: 2020-11-19T06:55:41.557Z
 - startTime: 2020-10-30T02:43:20.063Z
 - generator: Upptime <https://github.com/upptime/upptime>
