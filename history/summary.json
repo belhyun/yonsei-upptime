@@ -3,9 +3,9 @@
     "name": "Portal - https://portal.yonsei.ac.kr/main/",
     "url": "https://portal.yonsei.ac.kr/main/",
     "slug": "portal-https-portal-yonsei-ac-kr-main",
-    "status": "down",
+    "status": "up",
     "uptime": "99.00%",
-    "time": 2139
+    "time": 2144
   },
   {
     "name": "Infra - https://infra.yonsei.ac.kr",
