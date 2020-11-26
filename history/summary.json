@@ -3,9 +3,9 @@
     "name": "Portal - https://portal.yonsei.ac.kr/main/",
     "url": "https://portal.yonsei.ac.kr/main/",
     "slug": "portal-https-portal-yonsei-ac-kr-main",
-    "status": "down",
+    "status": "up",
     "uptime": "99.02%",
-    "time": 2107
+    "time": 2114
   },
   {
     "name": "Infra - https://infra.yonsei.ac.kr",
@@ -60,7 +60,7 @@
     "url": "https://ysweb.yonsei.ac.kr/graduate.jsp",
     "slug": "sugang-graduate",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "time": 149
   },
   {
