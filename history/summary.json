@@ -3,16 +3,16 @@
     "name": "Portal - https://portal.yonsei.ac.kr/main/",
     "url": "https://portal.yonsei.ac.kr/main/",
     "slug": "portal-https-portal-yonsei-ac-kr-main",
-    "status": "up",
-    "uptime": "99.00%",
-    "time": 2144
+    "status": "down",
+    "uptime": "99.02%",
+    "time": 2107
   },
   {
     "name": "Infra - https://infra.yonsei.ac.kr",
     "url": "https://infra.yonsei.ac.kr",
     "slug": "infra-https-infra-yonsei-ac-kr",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.45%",
     "time": 1426
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://donasys.yonsei.ac.kr/donasys",
     "slug": "donasys-https-donasys-yonsei-ac-kr-donasys",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.35%",
     "time": 1391
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://tams.yonsei.ac.kr:8443/",
     "slug": "tams-https-tams-yonsei-ac-kr-8443",
     "status": "up",
-    "uptime": "97.28%",
+    "uptime": "97.33%",
     "time": 1211
   },
   {
@@ -52,7 +52,7 @@
     "url": "https://ysweb.yonsei.ac.kr/websquare/websquare.jsp?w2xPath=/wq/login/hakbu_login.xml",
     "slug": "sugang-undergraduate",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "time": 960
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://ysweb.yonsei.ac.kr/graduate.jsp",
     "slug": "sugang-graduate",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "time": 149
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://ysweb.yonsei.ac.kr/grade.jsp",
     "slug": "grade-https-ysweb-yonsei-ac-kr-grade-jsp",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.11%",
     "time": 152
   }
 ]
