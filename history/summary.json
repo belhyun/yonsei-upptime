@@ -83,17 +83,17 @@
     "name": "Sms - https://message.yonsei.ac.kr/include/noPermission.jsp",
     "url": "https://message.yonsei.ac.kr/include/noPermission.jsp",
     "slug": "sms-https-message-yonsei-ac-kr-include-no-permission-jsp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 1937,
-    "timeWeek": 1238,
-    "timeMonth": 1053,
-    "timeYear": 1035
+    "time": 1275,
+    "timeDay": 4902,
+    "timeWeek": 2494,
+    "timeMonth": 1380,
+    "timeYear": 1275
   },
   {
     "name": "Sugang(undergraduate)",
