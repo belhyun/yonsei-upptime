@@ -4,14 +4,10 @@ user-agent: KojBot
 
 # Add your sites here
 sites:
-  - name: Portal1(48)
-    url: 165.132.12.48
-  - name: Portal2(49)
-    url: 165.132.12.49
-  - name: Infra1(12)
-    url: 165.132.12.12
-  - name: Infra2(13)
-    url: 165.132.12.13
+  - name: Portal - https://portal.yonsei.ac.kr/main/
+    url: https://portal.yonsei.ac.kr/main/
+  - name: Infra - https://infra.yonsei.ac.kr
+    url: https://infra.yonsei.ac.kr
   - name: GroupWare - https://ysgw.yonsei.ac.kr
     url: https://ysgw.yonsei.ac.kr
   - name: Donasys - https://donasys.yonsei.ac.kr/donasys
