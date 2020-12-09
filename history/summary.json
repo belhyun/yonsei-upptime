@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portal1-48",
     "status": "down",
-    "uptime": "5.04%",
-    "uptimeDay": "5.04%",
-    "uptimeWeek": "5.04%",
-    "uptimeMonth": "5.04%",
-    "uptimeYear": "5.04%",
+    "uptime": "1.65%",
+    "uptimeDay": "1.65%",
+    "uptimeWeek": "1.65%",
+    "uptimeMonth": "1.65%",
+    "uptimeYear": "1.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 1
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portal2-49",
     "status": "down",
-    "uptime": "7.88%",
-    "uptimeDay": "7.88%",
-    "uptimeWeek": "7.88%",
-    "uptimeMonth": "7.88%",
-    "uptimeYear": "7.88%",
+    "uptime": "4.60%",
+    "uptimeDay": "4.60%",
+    "uptimeWeek": "4.60%",
+    "uptimeMonth": "4.60%",
+    "uptimeYear": "4.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 1
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "infra1-12",
     "status": "down",
-    "uptime": "6.98%",
-    "uptimeDay": "6.98%",
-    "uptimeWeek": "6.98%",
-    "uptimeMonth": "6.98%",
-    "uptimeYear": "6.98%",
+    "uptime": "2.17%",
+    "uptimeDay": "2.17%",
+    "uptimeWeek": "2.17%",
+    "uptimeMonth": "2.17%",
+    "uptimeYear": "2.17%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 1
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "infra2-13",
     "status": "down",
-    "uptime": "5.69%",
-    "uptimeDay": "5.69%",
-    "uptimeWeek": "5.69%",
-    "uptimeMonth": "5.69%",
-    "uptimeYear": "5.69%",
+    "uptime": "1.48%",
+    "uptimeDay": "1.48%",
+    "uptimeWeek": "1.48%",
+    "uptimeMonth": "1.48%",
+    "uptimeYear": "1.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 1
     }
   },
   {
