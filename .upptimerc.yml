@@ -4,13 +4,13 @@ user-agent: KojBot
 
 # Add your sites here
 sites:
-  - name: Portal1(12.48) - https://nportal0.yonsei.ac.kr:8443/main/L4_response.html
+  - name: Portal-1(12.48) - https://nportal0.yonsei.ac.kr:8443/main/L4_response.html
     url: https://nportal0.yonsei.ac.kr:8443/main/L4_response.html
-  - name: Portal2(12.49) - https://nportal1.yonsei.ac.kr:8443/main/L4_response.html
+  - name: Portal-2(12.49) - https://nportal1.yonsei.ac.kr:8443/main/L4_response.html
     url: https://nportal1.yonsei.ac.kr:8443/main/L4_response.html
-  - name: Infra1(12.12) - https://ninfra0.yonsei.ac.kr:8443/sso/L4_response.html
+  - name: Infra-1(12.12) - https://ninfra0.yonsei.ac.kr:8443/sso/L4_response.html
     url: https://ninfra0.yonsei.ac.kr/sso/L4_response.html
-  - name: Infra2(12.13) - https://ninfra1.yonsei.ac.kr:8443/sso/L4_response.html
+  - name: Infra-2(12.13) - https://ninfra1.yonsei.ac.kr:8443/sso/L4_response.html
     url: https://ninfra1.yonsei.ac.kr/sso/L4_response.html
   - name: GroupWare - https://ysgw.yonsei.ac.kr
     url: https://ysgw.yonsei.ac.kr
