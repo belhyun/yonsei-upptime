@@ -4,10 +4,8 @@ user-agent: KojBot
 
 # Add your sites here
 sites:
-  - name: Portal-1(48) - https://nportal0.yonsei.ac.kr:8443/main/L4_response.html
-    url: https://nportal0.yonsei.ac.kr:8443/main/L4_response.html
-  - name: Portal-2(49) - https://nportal1.yonsei.ac.kr:8443/main/L4_response.html
-    url: https://nportal1.yonsei.ac.kr:8443/main/L4_response.html
+  - name: Portal - https://portal.yonsei.ac.kr/main/
+    url: https://portal.yonsei.ac.kr/main/
   - name: Infra - https://infra.yonsei.ac.kr
     url: https://infra.yonsei.ac.kr
   - name: GroupWare - https://ysgw.yonsei.ac.kr
