@@ -1,7 +1,7 @@
 url: https://nportal0.yonsei.ac.kr:8443/main/L4_response.html  
-status: down
-code: 404
-responseTime: 2709
-lastUpdated: 2020-12-15T07:06:08.547Z
+status: up
+code: 200
+responseTime: 881
+lastUpdated: 2020-12-15T07:25:32.041Z
 startTime: Mon Dec 14 2020 04:25:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
