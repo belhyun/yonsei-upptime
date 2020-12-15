@@ -8,8 +8,10 @@ sites:
     url: https://nportal0.yonsei.ac.kr:8443/main/L4_response.html
   - name: Portal-2(49) - https://nportal1.yonsei.ac.kr:8443/main/L4_response.html
     url: https://nportal1.yonsei.ac.kr:8443/main/L4_response.html
-  - name: Infra - https://infra.yonsei.ac.kr
-    url: https://infra.yonsei.ac.kr
+  - name: Infra-1(12) - https://ninfra0.yonsei.ac.kr:8443/sso/L4_response.html
+    url: https://ninfra0.yonsei.ac.kr:8443/sso/L4_response.html
+  - name: Infra-2(13) - https://ninfra1.yonsei.ac.kr:8443/sso/L4_response.html
+    url: https://ninfra1.yonsei.ac.kr:8443/sso/L4_response.html
   - name: GroupWare - https://ysgw.yonsei.ac.kr
     url: https://ysgw.yonsei.ac.kr
   - name: Donasys - https://donasys.yonsei.ac.kr/donasys
