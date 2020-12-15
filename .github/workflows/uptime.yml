@@ -29,3 +29,6 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
+          NOTIFICATION_SLACK: true
+          NOTIFICATION_SLACK_WEBHOOK: true
+          NOTIFICATION_SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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

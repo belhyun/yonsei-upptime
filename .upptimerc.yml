@@ -24,8 +24,6 @@ sites:
     url: https://ysweb.yonsei.ac.kr/graduate.jsp
   - name: Grade - https://ysweb.yonsei.ac.kr/grade.jsp
     url: https://ysweb.yonsei.ac.kr/grade.jsp
-  - name: brokne - https://thissitedoesnotexist.com/
-    url: https://thissitedoesnotexist.com/
 
 
 # Add downtime notifications
