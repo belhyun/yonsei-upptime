@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/ninfra0.yonsei.ac.kr",
     "slug": "infra-1-12-https-ninfra0-yonsei-ac-kr-8443",
     "status": "down",
-    "uptime": "7.79%",
-    "uptimeDay": "7.79%",
-    "uptimeWeek": "7.79%",
-    "uptimeMonth": "7.79%",
-    "uptimeYear": "7.79%",
+    "uptime": "3.06%",
+    "uptimeDay": "3.06%",
+    "uptimeWeek": "3.06%",
+    "uptimeMonth": "3.06%",
+    "uptimeYear": "3.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-15": 0
+      "2020-12-15": 1
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/ninfra1.yonsei.ac.kr",
     "slug": "infra-2-13-https-ninfra1-yonsei-ac-kr-8443",
     "status": "down",
-    "uptime": "13.10%",
-    "uptimeDay": "13.10%",
-    "uptimeWeek": "13.10%",
-    "uptimeMonth": "13.10%",
-    "uptimeYear": "13.10%",
+    "uptime": "8.45%",
+    "uptimeDay": "8.45%",
+    "uptimeWeek": "8.45%",
+    "uptimeMonth": "8.45%",
+    "uptimeYear": "8.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-15": 0
+      "2020-12-15": 1
     }
   },
   {
