@@ -36,4 +36,7 @@ jobs:
           NOTIFICATION_EMAIL_SMTP_HOST: ${{ secrets.SMTP_HOST }}
           NOTIFICATION_EMAIL_SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
           NOTIFICATION_EMAIL_SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          NOTIFICATION_EMAIL: true
+          NOTIFICATION_EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          NOTIFICATION_EMAIL_TO: ${{ secrets.EMAIL_TO }}
 
