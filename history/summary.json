@@ -4,19 +4,19 @@
     "url": "https://nportal0.yonsei.ac.kr:8443/main",
     "icon": "https://favicons.githubusercontent.com/nportal0.yonsei.ac.kr",
     "slug": "portal-1-48-https-nportal0-yonsei-ac-kr-8443-main",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 3721,
-    "timeDay": 3721,
-    "timeWeek": 3721,
-    "timeMonth": 3721,
-    "timeYear": 3721,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 5656,
+    "timeDay": 5656,
+    "timeWeek": 5656,
+    "timeMonth": 5656,
+    "timeYear": 5656,
     "dailyMinutesDown": {
-      "2020-12-16": 1
+      "2020-12-16": 3
     }
   },
   {
