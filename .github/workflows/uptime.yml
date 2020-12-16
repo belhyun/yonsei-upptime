@@ -31,3 +31,9 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
+          NOTIFICATION_EMAIL_SMTP: true
+          NOTIFICATION_EMAIL_SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          NOTIFICATION_EMAIL_SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          NOTIFICATION_EMAIL_SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          NOTIFICATION_EMAIL_SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+
