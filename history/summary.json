@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/nportal0.yonsei.ac.kr",
     "slug": "portal-1-48-https-nportal0-yonsei-ac-kr-8443-main",
     "status": "degraded",
-    "uptime": "99.38%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.16%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
     "time": 9178,
     "timeDay": 12451,
     "timeWeek": 9178,
     "timeMonth": 9178,
     "timeYear": 9178,
     "dailyMinutesDown": {
-      "2020-12-17": 15
+      "2020-12-17": 20
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/nportal1.yonsei.ac.kr",
     "slug": "portal-2-49-https-nportal1-yonsei-ac-kr-8443-main",
     "status": "degraded",
-    "uptime": "99.95%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.72%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 4364,
     "timeDay": 6113,
     "timeWeek": 4364,
     "timeMonth": 4364,
     "timeYear": 4364,
     "dailyMinutesDown": {
-      "2020-12-17": 1
+      "2020-12-17": 7
     }
   },
   {
