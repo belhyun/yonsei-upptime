@@ -106,8 +106,8 @@
     "slug": "donasys-https-donasys-yonsei-ac-kr-donasys",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 1654,
@@ -116,7 +116,6 @@
     "timeMonth": 1885,
     "timeYear": 1654,
     "dailyMinutesDown": {
-      "2020-12-22": 1,
       "2020-11-13": 672,
       "2020-11-11": 1,
       "2020-10-29": 2
