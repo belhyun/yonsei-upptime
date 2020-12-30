@@ -1,7 +1,7 @@
 url: https://nportal0.yonsei.ac.kr:8443/main  
-status: up
+status: degraded
 code: 200
-responseTime: 557
-lastUpdated: 2020-12-29T23:17:17.714Z
+responseTime: 5621
+lastUpdated: 2020-12-30T00:04:57.038Z
 startTime: Tue Dec 15 2020 09:02:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
