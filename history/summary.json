@@ -69,19 +69,19 @@
     "url": "http://ninfra0.yonsei.ac.kr:8082",
     "icon": "https://favicons.githubusercontent.com/ninfra0.yonsei.ac.kr",
     "slug": "infra-1-12-http-ninfra0-yonsei-ac-kr-8082",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1113,
-    "timeDay": 1021,
-    "timeWeek": 985,
-    "timeMonth": 889,
-    "timeYear": 1113,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1110,
+    "timeDay": 903,
+    "timeWeek": 960,
+    "timeMonth": 886,
+    "timeYear": 1110,
     "dailyMinutesDown": {
-      "2021-03-02": 0
+      "2021-03-02": 9
     }
   },
   {
