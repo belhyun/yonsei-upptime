@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/nportal0.yonsei.ac.kr",
     "slug": "portal-1-48-https-nportal0-yonsei-ac-kr-8443-main",
     "status": "up",
-    "uptime": "77.60%",
+    "uptime": "77.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.60%",
+    "uptimeYear": "77.66%",
     "time": 3048,
     "timeDay": 602,
     "timeWeek": 584,
@@ -69,9 +69,9 @@
     "url": "http://ninfra0.yonsei.ac.kr:8082",
     "icon": "https://favicons.githubusercontent.com/ninfra0.yonsei.ac.kr",
     "slug": "infra-1-12-http-ninfra0-yonsei-ac-kr-8082",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,7 +80,9 @@
     "timeWeek": 985,
     "timeMonth": 889,
     "timeYear": 1113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   },
   {
     "name": "Infra-2(13) - http://ninfra1.yonsei.ac.kr:8082/sso/L4_response.html",
