@@ -112,17 +112,17 @@
     "url": "https://ysgw.yonsei.ac.kr",
     "icon": "https://favicons.githubusercontent.com/ysgw.yonsei.ac.kr",
     "slug": "group-ware-https-ysgw-yonsei-ac-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1326,
-    "timeDay": 1543,
-    "timeWeek": 1318,
-    "timeMonth": 1194,
-    "timeYear": 1326,
+    "time": 1327,
+    "timeDay": 1531,
+    "timeWeek": 1339,
+    "timeMonth": 1203,
+    "timeYear": 1327,
     "dailyMinutesDown": {
       "2020-11-05": 77
     }
